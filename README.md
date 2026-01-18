@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm A S Vasantha Kumar
 
-<!--
-**vasanth-infosec/vasanth-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cyber Security & Networking Enthusiast
 
-Here are some ideas to get you started:
+I am an entry-level cyber security professional with strong knowledge in networking, vulnerability assessment, and Python-based security automation. I enjoy building ethical security tools and learning real-world attack & defense techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+- Networking (TCP/IP, OSI, VLAN, Routing)
+- Cyber Security Fundamentals & VAPT
+- Python for Security Automation
+- Nmap, msfvenom, hping3
+- Linux & Bash Basics
+- SIEM & SOC Fundamentals (Learning)
+
+---
+
+## 🚀 Security Projects
+### 🔹 Python-Based Security Tool
+- Network scanning using Nmap  
+- Payload generation (lab use only)
+- Strong password generator
+- DoS/DDoS simulation (educational purpose)
+
+### 🔹 Vulnerability Assessment Tool
+- Custom scanning logic
+- Automation using Python
+- Menu-driven CLI tool
+
+---
+
+## 🎯 Current Focus
+- SOC Analyst Skills
+- SIEM Log Analysis
+- Advanced VAPT Techniques
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/asvasanthkumar
+- Email: asvasanthakumar2004@gmail.com
